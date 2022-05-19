@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test main music app/app/src/main/res/layout/activity_main_music.xml" value="0.34646739130434784" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test main music app/app/src/main/res/layout/activity_profile.xml" value="0.34646739130434784" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/drawable/back_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/drawable/bg_white_rounded.xml" value="0.3828125" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/drawable/favourite_empty_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/drawable/next_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/drawable/pause_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/drawable/play_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/drawable/searchview_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/activity_login.xml" value="0.34402332361516036" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/activity_main_music.xml" value="0.33" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/activity_music_player.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/activity_profile.xml" value="0.3523550724637681" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/activity_signup.xml" value="0.3523550724637681" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/activity_storage.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/bg_white_rounded.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/card_music.xml" value="0.67" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/cat_row_items.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/fragment_blank.xml" value="0.2546875" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/fragment_first.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/fragment_four.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/fragment_music.xml" value="0.2546875" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/fragment_profile.xml" value="0.2546875" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/fragment_second.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/fragment_settings.xml" value="0.25" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/fragment_third.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/item_music.xml" value="0.25" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/main_recycler_row_item_music.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/layout/row_music.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Luong/AndroidStudioProjects/Test_main_music_app/app/src/main/res/menu/bottom_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.34402332361516036" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
